@@ -11,7 +11,7 @@
   <div class="col-12 spacing-top">
 
   <div class="row">
-    <div class="col-12 "> <h4 class="title-block"> Maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaart 2018</h4></div>
+    <div class="col-12 "> <h4 class="title-block"> Maart 2018</h4></div>
 </div>
 <div class="col-12 ">
 

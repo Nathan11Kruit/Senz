@@ -24,6 +24,15 @@
   margin: 0;
   color: white;
 }
+.menu-block {
+  height: 75px;
+  width: 4em;
+  margin: 0;
+  color: black;
+  text-align: center;
+  border: 1px solid black;
+  bottom: 0;
+}
 .small-block {
   height: 100px;
   border: 1px solid black;
@@ -60,11 +69,6 @@
 }
 .date {
   border: 1px solid black;
-}
-.menu {
-  border: 1px solid black;
-  height: 75px;
-  bottom: 0;
 }
 .menu-1 {
   bottom: 0;

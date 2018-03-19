@@ -13,6 +13,10 @@
 .spacing-top {
   margin-top: 15px;
 }
+.center-image {
+  display:block;
+    margin:auto;  
+}
 .title-block {
   background-color: blue;
   height: 40px;

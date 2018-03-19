@@ -8,5 +8,12 @@
 </head>
 
 <body>
-
+	<div class="achtergrond-postcodescherm">
+		<H2 class="wit">Voer je postcode in</H2>
+		<H4 class="wit">om de dichtstbijzijnde container te vinden.</H4>
+		<div class="col-md-4 text-center">	
+			<button class="btn btn-primary">Ga door</button>
+		</div>
+	
+	</div>
 </body>

@@ -1,0 +1,21 @@
+body {
+	background-color: #e0e0e0; 
+}
+
+.achtergrond-postcodescherm {
+	margin-top: 50%;
+	background-color: #00AEEF;
+	padding:3%;
+}
+
+.btn-primary {
+	background-color: #001F56;
+	color: #fff;
+	width: 116px;
+	height: 47px;
+}
+
+.wit {
+	color: #FFF;
+}
+

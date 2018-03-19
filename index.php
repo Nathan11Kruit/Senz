@@ -3,10 +3,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="style-nathan.css">
+
   <link rel="stylesheet" type="text/css" href="style-bernt.css">
   <link rel="stylesheet" type="text/css" href="style-lynn.css">
   <link rel="stylesheet" type="text/css" href="style-thomas.css">
-  <link rel="stylesheet" type="text/css" href="style-nathan.css">
 <body>
       <div class="main-title-block"><h1 class="title text-center">Dashboard</h1></div>
 
@@ -59,16 +60,16 @@
   <div class="col-6 left">  <h6 class="title-block text-center">Meld een probleem</h6></div>
 </div>
 <div class="row">
-  <div class="col-6 right"> <div class="small-block"><img class="center-image" height="50px" src="images/info_icon.png"></div> </div>
-  <div class="col-6 left">  <div class="small-block"></div></div>
+  <div class="col-6 right"> <div class="small-block"><img class="center-image icon" src="images/info_icon.png"></div> </div>
+  <div class="col-6 left">  <div class="small-block"><img class="center-image icon" src="images/info_icon.png"></div></div>
 </div>
 <div class="row spacing-top">
   <div class="col-6 right">  <h6 class="title-block text-center">Mijn donaties</h6></div>
   <div class="col-6 left">  <h6 class="title-block text-center">Locatie container</h6></div>
 </div>
 <div class="row">
-  <div class="col-6 right"> <div class="small-block"></div> </div>
-  <div class="col-6 left">  <div class="small-block"></div></div>
+  <div class="col-6 right"> <div class="small-block"><img class="center-image icon" src="images/info_icon.png"></div> </div>
+  <div class="col-6 left">  <div class="small-block"><img class="center-image icon" src="images/info_icon.png"></div></div>
 </div>
 </div>
 </div>

@@ -1,14 +1,46 @@
-.block {
+/* text styles */
+.text-center {
+  text-align: center;
+}
+
+/*spacing */
+.standard-top {
+  margin-top: 15px;
+}
+
+
+.title-block {
   background-color: blue;
   height: 50px;
 }
-.calender {
+.block2 {
+  background-color: blue;
+  height: 40px;
+}
+.calendar-background {
+  background-color: white:inherit;
+  height: 200px;
+}
+.calendar {
   margin-top: 15px;
   background-color: blue;
-  height: 50px;
+  height: 40px;
 }
 .title {
   font-size: 24px;
   color: white;
   text-align: center;
+}
+.content-title {
+  font-size: 16px;
+  color: white;
+  padding-top: 7px;
+}
+.content-title-2 {
+  font-size: 16px;
+  color: white;
+  padding-top: 7px;
+}
+.date {
+  border: 1px solid black;
 }

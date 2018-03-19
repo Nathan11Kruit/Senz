@@ -1,3 +1,7 @@
+/*body*/
+body {
+  background-color: #red;
+}
 /* text styles */
 .text-center {
   text-align: center;
@@ -8,8 +12,8 @@
   margin-top: 15px;
 }
 .title-block {
-  background-color: blue;
-  height: 40px;
+  background-color: #00AEEF;
+  height: 30px;
   margin: 0;
   color: white;
 }
@@ -18,7 +22,7 @@
   border: 1px solid black;
 }
 .main-title-block {
-  background-color: blue;
+  background-color: #001F56;
   height: 50px;
   margin: 0;
   color: white;

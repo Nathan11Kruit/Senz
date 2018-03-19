@@ -3,17 +3,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <body>
   <div class="container">
+    <div class="row">
     <div class="col-sm-12">
       <div class="block"><p class="title">Dashboard</p></div>
     </div>
-    <div class="col-1 calender">
+  </div>
+  <div class="row">
 
-      <div class=""></div>
+    <div class="col-sm-10">
 
+      <div class="calender"></div>
 
     </div>
   </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </body>
 </head>

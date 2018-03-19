@@ -6,4 +6,4 @@
 	  <a href="" class="col-4 menu-block1">Container</a>
 	  <a href="" class="col-4 menu-block1">Instellingen</a>
 	</div>
-</div>
+</div> 

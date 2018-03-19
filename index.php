@@ -56,7 +56,7 @@
   <div class="col-6 left">  <h6 class="title-block text-center">Meld een probleem</h6></div>
 </div>
 <div class="row">
-  <div class="col-6 right"> <div class="small-block"></div> </div>
+  <div class="col-6 right"> <div class="small-block"><img class="center-image" height="50px" src="images/info_icon.png"></div> </div>
   <div class="col-6 left">  <div class="small-block"></div></div>
 </div>
 <div class="row spacing-top">
@@ -74,14 +74,7 @@
 </div>
 
 
-<footer>
-<div class="container-fluid">
-
-<div class="row menu-1">
-
-  <div class="col-4 menu"></div>
-  <div class="col-4 menu"></div>
-  <div class="col-4 menu"></div>
+<?php include 'menu.php'; ?>
 
 
 

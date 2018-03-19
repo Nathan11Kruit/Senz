@@ -15,7 +15,8 @@
 }
 .center-image {
   display:block;
-    margin:auto;  
+    margin:auto;
+    margin-top: 24px; 
 }
 .title-block {
   background-color: blue;

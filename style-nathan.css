@@ -1,3 +1,21 @@
+<<<<<<< HEAD:style.css
+<<<<<<< HEAD
+/*body*/
+body {
+  background-color: #red;
+=======
+body {
+<<<<<<< HEAD
+  background-color: grey!important;
+>>>>>>> 7b28c33a89d5a28e4b8ea9d1efb870996c1107e2
+=======
+  background-color: #E0E0E0!important;
+>>>>>>> 076ed5f67464aedd056778e252dd024cdeae926a
+=======
+body {
+  background-color: #E0E0E0!important;
+>>>>>>> 06bb36c152f64e6e0ae2db4bd074e5df45288926:style-nathan.css
+}
 /* text styles */
 .text-center {
   text-align: center;
@@ -16,11 +34,18 @@
 .center-image {
   display:block;
     margin:auto;
-    margin-top: 24px; 
+    margin-top: 24px;
 }
 .title-block {
-  background-color: blue;
+  background-color: #00AEEF;
+<<<<<<< HEAD:style.css
+<<<<<<< HEAD
+  height: 30px;
+=======
+=======
+>>>>>>> 06bb36c152f64e6e0ae2db4bd074e5df45288926:style-nathan.css
   height: 40px;
+>>>>>>> 7b28c33a89d5a28e4b8ea9d1efb870996c1107e2
   margin: 0;
   color: white;
 }
@@ -34,17 +59,21 @@
   bottom: 0;
 }
 .small-block {
+<<<<<<< HEAD:style.css
   height: 100px;
   border: 1px solid black;
+=======
+>>>>>>> 06bb36c152f64e6e0ae2db4bd074e5df45288926:style-nathan.css
+  background-color: white;
 }
 .main-title-block {
-  background-color: blue;
+  background-color: #001F56;
   height: 50px;
   margin: 0;
   color: white;
   }
 .block-2 {
-  background-color: blue;
+  background-color: #00AEEF;
   height: 40px;
 }
 .calendar-background {
@@ -52,7 +81,7 @@
   height: 200px;
 }
 .calendar {
-  background-color: blue;
+  background-color: #00AEEF;
   height: 50px;
 }
 .title {
@@ -69,6 +98,7 @@
 }
 .date {
   border: 1px solid black;
+  background-color: white;
 }
 .menu-1 {
   bottom: 0;

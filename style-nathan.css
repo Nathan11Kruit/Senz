@@ -1,3 +1,4 @@
+<<<<<<< HEAD:style.css
 <<<<<<< HEAD
 /*body*/
 body {
@@ -10,6 +11,10 @@ body {
 =======
   background-color: #E0E0E0!important;
 >>>>>>> 076ed5f67464aedd056778e252dd024cdeae926a
+=======
+body {
+  background-color: #E0E0E0!important;
+>>>>>>> 06bb36c152f64e6e0ae2db4bd074e5df45288926:style-nathan.css
 }
 /* text styles */
 .text-center {
@@ -33,17 +38,23 @@ body {
 }
 .title-block {
   background-color: #00AEEF;
+<<<<<<< HEAD:style.css
 <<<<<<< HEAD
   height: 30px;
 =======
+=======
+>>>>>>> 06bb36c152f64e6e0ae2db4bd074e5df45288926:style-nathan.css
   height: 40px;
 >>>>>>> 7b28c33a89d5a28e4b8ea9d1efb870996c1107e2
   margin: 0;
   color: white;
 }
 .small-block {
+<<<<<<< HEAD:style.css
   height: 100px;
   border: 1px solid black;
+=======
+>>>>>>> 06bb36c152f64e6e0ae2db4bd074e5df45288926:style-nathan.css
   background-color: white;
 }
 .main-title-block {

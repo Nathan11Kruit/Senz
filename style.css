@@ -6,10 +6,21 @@ body {
 .text-center {
   text-align: center;
 }
-
+/* padding */
+.left {
+  padding-left: 7px!important;
+}
+.right {
+  padding-right: 7px!important;
+}
 /*spacing */
 .spacing-top {
   margin-top: 15px;
+}
+.center-image {
+  display:block;
+    margin:auto;
+    margin-top: 24px; 
 }
 .title-block {
   background-color: #00AEEF;

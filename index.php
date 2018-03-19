@@ -4,7 +4,16 @@
 
   <link rel="stylesheet" type="text/css" href="style.css">
 <body>
-<div class="block"><p class="title">Dashboard</p></div>
-<div class="calender"></div>
+  <div class="container">
+    <div class="col-sm-12">
+      <div class="block"><p class="title">Dashboard</p></div>
+    </div>
+    <div class="col-1 calender">
+
+      <div class=""></div>
+
+
+    </div>
+  </div>
 </body>
 </head>

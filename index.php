@@ -11,7 +11,7 @@
   <div class="col-12 spacing-top">
 
   <div class="row">
-    <div class="col-12 "> <h4 class="title-block"> Maart 2018</h4></div>
+    <div class="col-12 "> <h6 class="title-block"> Maart 2018</h6></div>
 </div>
 <div class="col-12 ">
 
@@ -52,20 +52,20 @@
 
 
 <div class="row spacing-top">
-  <div class="col-6">  <h6 class="title-block text-center">Hoe te scheiden?</h6></div>
-  <div class="col-6">  <h6 class="title-block text-center">Meld een probleem</h6></div>
+  <div class="col-6 right">  <h6 class="title-block text-center">Hoe te scheiden?</h6></div>
+  <div class="col-6 left">  <h6 class="title-block text-center">Meld een probleem</h6></div>
 </div>
 <div class="row">
-  <div class="col-6"> <div class="small-block"></div> </div>
-  <div class="col-6">  <div class="small-block"></div></div>
+  <div class="col-6 right"> <div class="small-block"></div> </div>
+  <div class="col-6 left">  <div class="small-block"></div></div>
 </div>
 <div class="row spacing-top">
-  <div class="col-6">  <h6 class="title-block text-center">Mijn donaties</h6></div>
-  <div class="col-6">  <h6 class="title-block text-center">Locatie container</h6></div>
+  <div class="col-6 right">  <h6 class="title-block text-center">Mijn donaties</h6></div>
+  <div class="col-6 left">  <h6 class="title-block text-center">Locatie container</h6></div>
 </div>
 <div class="row">
-  <div class="col-6"> <div class="small-block"></div> </div>
-  <div class="col-6">  <div class="small-block"></div></div>
+  <div class="col-6 right"> <div class="small-block"></div> </div>
+  <div class="col-6 left">  <div class="small-block"></div></div>
 </div>
 </div>
 </div>

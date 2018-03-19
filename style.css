@@ -2,7 +2,13 @@
 .text-center {
   text-align: center;
 }
-
+/* padding */
+.left {
+  padding-left: 7px!important;
+}
+.right {
+  padding-right: 7px!important;
+}
 /*spacing */
 .spacing-top {
   margin-top: 15px;

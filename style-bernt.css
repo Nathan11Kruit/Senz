@@ -1,13 +1,13 @@
 .menu-block1 {
-  height: 6em;
+  height: 4.1em;
   margin: 0;
-  color: black;
+  color: #6F6F6F;
   text-align: center;
   border: 0.5px solid rgba(0, 0, 0, 0.2);
-  border-opaci
   bottom: 0;
   background-color: white;
-  padding-top: 1em;
+  padding-top: 0.4em;
   -webkit-background-clip: padding-box; /* for Safari */
   background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
+  font-size: 0.9em;
 }

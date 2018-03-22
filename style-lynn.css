@@ -2,9 +2,9 @@ body {
 	background-color: #e0e0e0; 
 }
 
-/*formulier*/
+/*formulier postcode.php*/
 ::placeholder{
-	color: grey;
+	color: #6f6f6f;
 	font-size: 18px;
 }
 
@@ -18,7 +18,7 @@ body {
  }
 
      
-/*lichtblauwe achtergond*/
+/*lichtblauwe achtergond postcode.php*/
 .achtergrond-postcodescherm {
 	margin-top: 50%;
 	background-color: #00AEEF;
@@ -26,7 +26,7 @@ body {
 }
 
 
-/*knop*/
+/*knop postcode.php*/
 .btn-primary {
 	background-color: #001F56;
 	color: #fff;
@@ -42,7 +42,7 @@ body {
 }
 
 
-/*tekstopmaak*/
+/*tekstopmaak postcode.php*/
 .wit {
 	color: #FFF;
 }
@@ -61,3 +61,10 @@ body {
 	margin-top: 2%;
 }
 
+/*dubbel, uit nathans css voor de kop*/
+.main-title-block {
+  background-color: #001F56;
+  height: 50px;
+  margin: 0;
+  color: white;
+  }

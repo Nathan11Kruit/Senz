@@ -1,7 +1,16 @@
 .dot {
-    height: 50px;
-    width: 50px;
-    background-color: #bbb;
+    height: 40px;
+    width: 40px;
+    background-color: #001F56;
     border-radius: 50%;
     display: inline-block;
+}
+
+.dot-ophaaldag {
+    height: 45px;
+    width: 45px;
+    background-color: #00AEEF;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 5px;
 }

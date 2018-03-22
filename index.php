@@ -8,7 +8,7 @@
   <div class="col-12 spacing-top">
 
   <div class="row">
-    <div class="col-12 "> <h6 class="title-block"> Maart 2018</h6></div>
+    <div class="col-12 "><h6 class="title-block calender-title"> Maart 2018</h6></div>
 </div>
 <div class="col-12 ">
 
@@ -49,20 +49,20 @@
 
 
 <div class="row spacing-top">
-  <div class="col-6 right">  <h6 class="title-block text-center">Hoe te scheiden?</h6></div>
-  <div class="col-6 left">  <h6 class="title-block text-center">Meld een probleem</h6></div>
+  <div class="col-6 right">  <h6 class="title-block">Hoe te scheiden?</h6></div>
+  <div class="col-6 left">  <h6 class="title-block">Meld een probleem</h6></div>
 </div>
 <div class="row">
-  <div class="col-6 right"> <div class="small-block"><img class="center-image icon" src="images/info_icon.png"></div> </div>
-  <div class="col-6 left">  <div class="small-block"><img class="center-image icon" src="images/info_icon.png"></div></div>
+  <div class="col-6 right"> <div class="small-block"><div class="top"><img class="center-image icon" src="images/info_icon.png"></div></div> </div>
+  <div class="col-6 left">  <div class="small-block"><div class="top"><img class="center-image icon" src="images/info_icon.png"></div></div></div>
 </div>
 <div class="row spacing-top">
-  <div class="col-6 right">  <h6 class="title-block text-center">Mijn donaties</h6></div>
-  <div class="col-6 left">  <h6 class="title-block text-center">Locatie container</h6></div>
+  <div class="col-6 right">  <h6 class="title-block">Mijn donaties</h6></div>
+  <div class="col-6 left">  <h6 class="title-block">Locatie container</h6></div>
 </div>
 <div class="row">
-  <div class="col-6 right"> <div class="small-block"><img class="center-image icon" src="images/info_icon.png"></div> </div>
-  <div class="col-6 left">  <div class="small-block"><img class="center-image icon" src="images/info_icon.png"></div></div>
+  <div class="col-6 right"> <div class="small-block"><div class="top"><img class="center-image icon" src="images/info_icon.png"></div></div> </div>
+  <div class="col-6 left">  <div class="small-block"><div class="top"><img class="center-image icon" src="images/info_icon.png"></div></div></div>
 </div>
 </div>
 </div>

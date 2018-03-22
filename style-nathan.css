@@ -13,6 +13,9 @@ body{
 .right {
   padding-right: 7px!important;
 }
+.top {
+  padding-top: 12px!important;
+}
 /*spacing */
 .spacing-top {
   margin-top: 15px;
@@ -27,6 +30,9 @@ body{
   height: 40px;
   margin: 0;
   color: white;
+  box-shadow: -3px 8px 4px -3px rgba(0,0,0,0.59);
+  padding: ;
+  padding: 8px 0px 0px 9px;
 }
 .menu-block {
   height: 75px;
@@ -40,6 +46,7 @@ body{
 .small-block {
   height: 100px;
   background-color: white;
+  box-shadow: -3px 4px 4px -3px rgba(0,0,0,0.59);
 }
 .main-title-block {
   background-color: #001F56;
@@ -59,6 +66,9 @@ body{
   background-color: #00AEEF;
   height: 50px;
 }
+.calender-title {
+  padding: 8px 0px 0px 16px;
+}
 .title {
 }
 .content-title {
@@ -73,6 +83,7 @@ body{
 }
 .date {
   background-color: white;
+  box-shadow: -3px 4px 4px -3px rgba(0,0,0,0.59);
 }
 .menu-1 {
   bottom: 0;

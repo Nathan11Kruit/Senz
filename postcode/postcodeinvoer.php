@@ -20,6 +20,6 @@
 		<div class="col-md-4 text-center">	
 			<button class="btn btn-primary knoptekst">Verder</button>
 		</div>
-	
+	    
 	</div>
 </body>

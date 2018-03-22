@@ -11,3 +11,41 @@
   background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
   font-size: 0.9em;
 }
+.probleemcontainer {
+  padding: 15px;
+}
+.probleemform {
+  border-radius: 1px;
+  border: 0.5px solid #6F6F6F;
+  margin-top: 6px;
+  text-align: left;
+  padding-left:10px;
+  margin-bottom: 4px;
+  width: 100%;
+  height: 35px;
+}
+.probleemarea {
+  border-radius: 1px;
+  border: 0.5px solid #6F6F6F;
+  margin-top: 4px;
+  text-align: left;
+  padding-left:10px;
+  margin-bottom: 2px;
+  width: 100%;
+}
+.probleemradio {
+  margin-top: 6px;
+  margin-right: 5px;
+  margin-left: 3px;
+}
+.probleemtext {
+  padding-top: 10px;
+}
+.probleemsubmit {
+  background-color: #001F56;
+  color: #fff;
+  width: 100%;
+  height: 50px;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}

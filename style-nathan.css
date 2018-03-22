@@ -6,6 +6,13 @@ body{
 .text-center {
   text-align: center;
 }
+.text-block {
+  background-color: white;
+  padding: 10px;
+}
+.italic {
+  font-style: italic;
+}
 /* padding */
 .left {
   padding-left: 7px!important;
@@ -96,4 +103,16 @@ footer {
 .icon {
   height: 70px;
 
+}
+.back {
+  position: absolute;
+  height: 30px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+/* kalender */
+.papier {
+  height: 20px;
+  width: 20px;
+  background-color: #2D9CDB;
 }

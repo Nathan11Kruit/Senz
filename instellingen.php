@@ -52,11 +52,11 @@
 			    		<div class="col-6">
 			    			<p class="balkinhoud">Postcodewijzigen</p>
 			    		</div>
-			    		<div class="col-2">
-			    			<p class="balkinhoud">a</p>
+			    		<div class="col-3">
+  							<input type="text" placeholder="9742KT" class="wijzigpostcode balkinhoud">
 			    		</div>
-			    		<div class="col-2">
-			    			<p class="balkinhoud">a</p>
+			    		<div class="col-1">
+							<button type="button" class="btn btn-primary btn-sm balkinhoud">Wijzig</button>
 			    		</div>
 			    	</div>
 		    	</div>

@@ -3,9 +3,9 @@ body {
 }
 
 /*formulier postcode.php*/
-::placeholder{
+::placeholder {
 	color: #6f6f6f;
-	font-size: 18px;
+	font-size: 14px;
 }
 
 .postcodeform {
@@ -78,6 +78,12 @@ body {
 	font-weight: bold;
 }
 
+.wijzigpostcode{
+	width: 100%;
+}
+
+
+
 /*dubbel, uit nathans css voor de kop*/
 .main-title-block {
   background-color: #001F56;
@@ -96,6 +102,15 @@ body {
   padding: ;
   padding: 8px 0px 0px 9px;
 }
+
+
+
+
+
+
+
+
+/*DE SWITCHES*/
 
 /* The switch - the box around the slider */
 .switch {
@@ -134,7 +149,8 @@ body {
 }
 
 input:checked + .slider {
-  background-color: #00AEEF;
+  background-color: #00AEEF
+  ;
 }
 
 input:focus + .slider {

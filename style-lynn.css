@@ -8,7 +8,7 @@ body {
 	font-size: 18px;
 }
 
-input {
+.postcodeform {
    width: 100%;
    height: 50px;
    margin-top:2%;

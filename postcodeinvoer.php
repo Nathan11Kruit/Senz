@@ -8,7 +8,7 @@
 		<H4 class="plat wit arial">om de dichtstbijzijnde container te vinden.</H4>
 
 		<form action="/action_page.php">
-		  <input type="text" name="postcode" placeholder="Bijv. 9742KT">
+		  <input type="text" class="postcodeform" name="postcode" placeholder="Bijv. 9742KT">
 		</form>
 
 

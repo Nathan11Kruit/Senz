@@ -27,6 +27,7 @@ body{
   height: 40px;
   margin: 0;
   color: white;
+  box-shadow: -3px 8px 4px -3px rgba(0,0,0,0.59);
 }
 .menu-block {
   height: 75px;
@@ -40,6 +41,7 @@ body{
 .small-block {
   height: 100px;
   background-color: white;
+  box-shadow: -3px 4px 4px -3px rgba(0,0,0,0.59);
 }
 .main-title-block {
   background-color: #001F56;
@@ -73,6 +75,9 @@ body{
 }
 .date {
   background-color: white;
+  /* box-shadow: 0px 1px 1px 1px; */
+  -webkit-box-shadow: -1px 1px 1px 1px rgba(0,0,0,0.59);
+  box-shadow: -3px 4px 4px -3px rgba(0,0,0,0.59);
 }
 .menu-1 {
   bottom: 0;

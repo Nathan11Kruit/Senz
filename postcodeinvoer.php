@@ -13,10 +13,11 @@
 
 
 		<div class="col-md-4 text-center">	
-			<button class="btn btn-primary knoptekst postcodeknop">Verder</button>
+			<button class="btn btn-primary knoptekst pk">Verder</button>
 		</div>
 	    
 	</div>
 <?php
 	include 'footer.php';
+	include 'menu.php';
 ?>

@@ -12,13 +12,37 @@
   		<div class="col-12 spacing-top">
 		  	<div class="row">
 		    	<div class="col-12 balkinstellingen">
-		    		<p>Push notificaties</p>
-		    	</div>
+		    		<div class="row">
+			    		<div class="col-9">
+			    			<p class="balkinhoud">Push notificaties</p>
+			    		</div>
+			    		<div class="col-1">
+			    			<div class="balkinhoud">
+			    				<label class="switch">
+								  <input type="checkbox">
+								  <span class="slider round"></span>
+								</label>
+			    			</div>
+			    		</div>
+			    	</div>
+			    </div>
 			</div>
 
 			<div class="row">
 		    	<div class="col-12 balkinstellingen">
-		    		<p>Live locatie</p>
+		    		<div class="row">
+			    		<div class="col-9">
+			    			<p class="balkinhoud">Live locatie</p>
+			    		</div>
+			    		<div class="col-1">
+			    			<div class="balkinhoud">
+			    				<label class="switch">
+								  <input type="checkbox">
+								  <span class="slider round"></span>
+								</label>
+			    			</div>
+			    		</div>
+			    	</div>
 		    	</div>
 			</div>
 
@@ -26,10 +50,13 @@
 		    	<div class="col-12 balkinstellingen">
 		    		<div class="row">
 			    		<div class="col-6">
-			    			<p>Postcodewijzigen</p>
+			    			<p class="balkinhoud">Postcodewijzigen</p>
 			    		</div>
-			    		<div class="col-6">
-			    			<p>a</p>
+			    		<div class="col-2">
+			    			<p class="balkinhoud">a</p>
+			    		</div>
+			    		<div class="col-2">
+			    			<p class="balkinhoud">a</p>
 			    		</div>
 			    	</div>
 		    	</div>

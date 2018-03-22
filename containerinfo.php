@@ -1,32 +1,6 @@
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  <link rel="stylesheet" type="text/css" href="style-bernt.css">
-  <link rel="stylesheet" type="text/css" href="style-lynn.css">
-  <link rel="stylesheet" type="text/css" href="style-thomas.css">
-  <link rel="stylesheet" type="text/css" href="style-nathan.css">
+<?php include 'header.php'; ?>
+
 <body>
-
-	  <style>
-.dot {
-    height: 40px;
-    width: 40px;
-    background-color: #001F56;
-    border-radius: 50%;
-    display: inline-block;
-}
-
-.dot-ophaaldag {
-    height: 45px;
-    width: 45px;
-    background-color: #00AEEF;
-    border-radius: 50%;
-    display: inline-block;
-    margin-top: 5px;
-}
-
-</style>
 
       <div class="main-title-block"><h1 class="title text-center">Dashboard</h1></div>
 
@@ -83,7 +57,7 @@
 
 <?php include 'menu.php'; ?>
 
-
+<?php include 'footer.php'; ?>
 
 
 
@@ -96,4 +70,4 @@
 </div>
 </div>
 </body>
-</head>
+

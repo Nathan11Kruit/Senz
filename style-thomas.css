@@ -14,3 +14,20 @@
     display: inline-block;
     margin-top: 5px;
 }
+
+.sorteren {
+	background-color: white;
+	color: #A1A1A1;
+	width: 100%;
+	height: 37px;
+	border: none;
+}
+ 
+.containernaam {
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.containerlocatie {
+	margin-top: -18px;
+}

@@ -82,7 +82,9 @@ body {
 	width: 100%;
 }
 
-
+.center{
+	text-align: center;
+}
 
 /*dubbel, uit nathans css voor de kop*/
 .main-title-block {

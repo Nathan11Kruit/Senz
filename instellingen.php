@@ -64,13 +64,13 @@
 
 			<div class="row">
 		    	<div class="col-12 balkinstellingen">
-		    		<p>Voorwaarden en privacy</p>
+		    		<p class="balkinhoud center">Voorwaarden en privacy</p>
 		    	</div>
 			</div>
 
 			<div class="row">
 		    	<div class="col-12 balkinstellingen">
-		    		<p>Uitloggen</p>
+		    		<p class="balkinhoud center">Uitloggen</p>
 		    	</div>
 			</div>
 		</div>

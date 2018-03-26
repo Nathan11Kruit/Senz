@@ -25,11 +25,12 @@
   		<div class="col-12 spacing-top">
 
 			<div class="row">
-		    	<div class="col-12 balkinstellingen">
+		    	<div class="col-12 balkinstellingen bedrijfmelding">
 		    		<div class="row">
-			    		<div class="col-8">
+			    		<div class="col-10">
 			    			<p class="containernaam">Container</p>
-			    			<p class="containerlocatie">Egginklaan, Utrecht</p>
+			    			<p class="containerlocatiemelding">Egginklaan, Utrecht</p>
+			    			<p class="previewmelding">Container is helemaal naar tyfus gvd, beter gaan jullie ff lopen te repareren</p>
 			    		</div>
 			    	</div>
 		    	</div>

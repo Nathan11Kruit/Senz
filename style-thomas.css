@@ -25,9 +25,25 @@
  
 .containernaam {
 	font-weight: bold;
-	margin-top: 10px;
+	margin-top: 5px;
 }
 
 .containerlocatie {
-	margin-top: -18px;
+	margin-top: -25px;
+}
+
+.previewmelding {
+	font-size: 12px; 
+	margin-top: -15px;
+	line-height: 98%;
+}
+
+.containerlocatiemelding {
+	font-size: 15px; 
+	font-color: #696969;
+	margin-top: -20px;
+}
+
+.bedrijfmelding {
+	height: 80px;
 }

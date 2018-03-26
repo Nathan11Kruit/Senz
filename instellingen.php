@@ -3,9 +3,9 @@
 ?>
 
 <body>
-	<div class="achtergrond-instellingen">	   
+	<div class="achtergrond-instellingen">
 	      <div class="main-title-block">
-	      		<h1 class="title text-center">Instellingen</h1>
+					<a href="index.php"><img class="center-image back" src="images/whitearrow.png"></a><div class="main-title-block"><h1 class="title text-center">Instellingen</h1></div>
 	      </div>
 
 	<div class="container">
@@ -74,7 +74,7 @@
 		    	</div>
 			</div>
 		</div>
-	</div>	
+	</div>
 
 
 <?php

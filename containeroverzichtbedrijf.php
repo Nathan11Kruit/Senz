@@ -2,7 +2,7 @@
 
 <body>
 
-      <div class="main-title-block"><h1 class="title text-center">Containers</h1></div>
+  <a href="index.php"><img class="center-image back" src="images/whitearrow.png"></a><div class="main-title-block"><h1 class="title text-center">Containers</h1></div>
 
 <div class="container">
 
@@ -19,7 +19,7 @@
 </div>
 </div>
 
-<div class="achtergrond-instellingen">	   
+<div class="achtergrond-instellingen">
 
 	<div class="container">
   		<div class="col-12 spacing-top">
@@ -118,4 +118,3 @@
 </div>
 </div>
 </body>
-

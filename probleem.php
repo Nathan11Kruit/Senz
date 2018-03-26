@@ -1,7 +1,7 @@
 <?php
 	include 'header.php';
 ?>
-      <div class="main-title-block"><h1 class="title text-center">Probleem melden</h1></div>
+<a href="index.php"><img class="center-image back" src="images/whitearrow.png"></a><div class="main-title-block"><h1 class="title text-center">Probleem melden</h1></div>
 
   <div class="container">
     <div class="row spacing-top probleemcontainer">
@@ -15,8 +15,8 @@
                 <input class="probleemradio" type="radio" name="probleem1" value="2"> Container kan niet sluiten/openen <br>
                 <input class="probleemradio" type="radio" name="probleem1" value="3"> Ligt afval naast de container <br>
                 <input class="probleemradio" type="radio" name="probleem1" value="4" checked> Anders: <br>
-              <textarea class="probleemarea" rows="4" placeholder="Licht uw antwoord toe"></textarea>      
-              <div class="col-md-4 text-center">  
+              <textarea class="probleemarea" rows="4" placeholder="Licht uw antwoord toe"></textarea>
+              <div class="col-md-4 text-center">
                 <input type="submit" class="koptekst probleemsubmit" value="Verzenden">
               </div>
             </form>

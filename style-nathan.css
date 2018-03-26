@@ -2,6 +2,10 @@
 body{
   background-color: #E0E0E0!important;
 }
+/* margins */
+.no-margin {
+  margin: 0;
+}
 /* text styles */
 .text-center {
   text-align: center;
@@ -9,6 +13,8 @@ body{
 .text-block {
   background-color: white;
   padding: 10px;
+  box-shadow: -3px 4px 4px -3px rgba(0,0,0,0.59);
+
 }
 .italic {
   font-style: italic;
@@ -152,4 +158,12 @@ footer {
 
 .legenda {
   font-size: 12px;
+}
+/* bedrijven */
+.timestamp {
+  color: grey;
+}
+.melding {
+  font-size: 14px;
+  color: lightgrey;
 }

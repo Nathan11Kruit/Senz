@@ -2,6 +2,14 @@
 body{
   background-color: #E0E0E0!important;
 }
+/* links */
+a:link, a:visited, a:hover, a:active {
+  color: unset;
+}
+/* margins */
+.no-margin {
+  margin: 0;
+}
 /* text styles */
 .text-center {
   text-align: center;
@@ -9,13 +17,21 @@ body{
 .text-block {
   background-color: white;
   padding: 10px;
+  box-shadow: -3px 4px 4px -3px rgba(0,0,0,0.59);
+
 }
 .italic {
   font-style: italic;
 }
 /* padding */
-.left {
+.padding {
+  padding: 5px;
+}
+.left { /*padding left */
   padding-left: 7px!important;
+}
+.left-b { /* padding left - bigger */
+  padding-left: 14px!important;
 }
 .right {
   padding-right: 7px!important;
@@ -95,6 +111,12 @@ body{
 .menu-1 {
   bottom: 0;
 }
+.menu-1 {
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  margin-top: 20px;
+}
 footer {
   position: absolute;
   width: 100%;
@@ -102,8 +124,13 @@ footer {
 }
 .icon {
   height: 70px;
-
 }
+.icon-large {
+  width: 158px;
+  height: 100px;
+  overflow: hidden;
+}
+
 .back {
   position: absolute;
   height: 30px;
@@ -115,4 +142,38 @@ footer {
   height: 20px;
   width: 20px;
   background-color: #2D9CDB;
+}
+.groene {
+  height: 20px;
+  width: 20px;
+  background-color: #27AE60;
+}
+.grijze {
+  height: 20px;
+  width: 20px;
+  background-color: #4F4F4F;
+}
+.plastic {
+  height: 20px;
+  width: 20px;
+  background-color: #F2994A;
+}
+.dag {
+  height: 20px;
+  width: 20px;
+  background-color: #ffffff;
+  border-radius: 50px;
+  border: 1px solid black;
+}
+
+.legenda {
+  font-size: 12px;
+}
+/* bedrijven */
+.timestamp {
+  color: grey;
+}
+.melding {
+  font-size: 14px;
+  color: lightgrey;
 }

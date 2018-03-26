@@ -5,7 +5,7 @@
 <body>
 	<div class="achtergrond-instellingen">
 	      <div class="main-title-block">
-					<a href="index.php"><img class="center-image back" src="images/whitearrow.png"></a><div class="main-title-block"><h1 class="title text-center">Instellingen</h1></div>
+					<a href="dashboard-bedrijven.php"><img class="center-image back" src="images/whitearrow.png"></a><div class="main-title-block"><h1 class="title text-center">Instellingen</h1></div>
 	      </div>
 
 	<div class="container">
@@ -48,22 +48,6 @@
 
 			<div class="row">
 		    	<div class="col-12 balkinstellingen">
-		    		<div class="row">
-			    		<div class="col-6">
-			    			<p class="balkinhoud">Postcodewijzigen</p>
-			    		</div>
-			    		<div class="col-3">
-  							<input type="text" placeholder="9742KT" class="wijzigpostcode balkinhoud">
-			    		</div>
-			    		<div class="col-1">
-							<button type="button" class="btn btn-primary btn-sm balkinhoud">Wijzig</button>
-			    		</div>
-			    	</div>
-		    	</div>
-			</div>
-
-			<div class="row">
-		    	<div class="col-12 balkinstellingen">
 		    		<p class="balkinhoud center">Voorwaarden en privacy</p>
 		    	</div>
 			</div>
@@ -79,5 +63,5 @@
 
 <?php
 	include 'footer.php';
-	include 'menu.php';
+	include 'menu-bedrijven.php';
 ?>

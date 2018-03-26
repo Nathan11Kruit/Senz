@@ -60,7 +60,7 @@
 </div>
 <div class="row">
   <div class="col-6 right"> <div class="small-block"><div class="top"><img class="center-image icon" src="images/info_icon.png"></div></div> </div>
-  <div class="col-6 left">  <div class="small-block"><div class="top"><img class="center-image icon" src="images/info_icon.png"></div></div></div>
+  <div class="col-6 left">  <div class="small-block"><div class="top"><img class="center-image icon" src="images/kaartje.png"></div></div></div>
 </div>
 </div>
 </div>

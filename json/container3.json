@@ -1,832 +1,832 @@
 [
   {
-    "Date/Time": "16-03-18 16:00",
-    "Temperature (C)": "5,691",
-    "Distance (mm)": "1609,84"
+    "date": "16-03-18 16:00",
+    "temperature": "5,691",
+    "distance": "1609,84"
   },
   {
-    "Date/Time": "16-03-18 13:00",
-    "Temperature (C)": "7,111",
-    "Distance (mm)": "1613,21"
+    "date": "16-03-18 13:00",
+    "temperature": "7,111",
+    "distance": "1613,21"
   },
   {
-    "Date/Time": "16-03-18 10:00",
-    "Temperature (C)": "6,165",
-    "Distance (mm)": "838,33"
+    "date": "16-03-18 10:00",
+    "temperature": "6,165",
+    "distance": "838,33"
   },
   {
-    "Date/Time": "16-03-18 07:00",
-    "Temperature (C)": "5,439",
-    "Distance (mm)": "840,54"
+    "date": "16-03-18 07:00",
+    "temperature": "5,439",
+    "distance": "840,54"
   },
   {
-    "Date/Time": "16-03-18 04:00",
-    "Temperature (C)": "6,003",
-    "Distance (mm)": "838,82"
+    "date": "16-03-18 04:00",
+    "temperature": "6,003",
+    "distance": "838,82"
   },
   {
-    "Date/Time": "16-03-18 01:00",
-    "Temperature (C)": "6,165",
-    "Distance (mm)": "838,87"
+    "date": "16-03-18 01:00",
+    "temperature": "6,165",
+    "distance": "838,87"
   },
   {
-    "Date/Time": "15-03-18 22:00",
-    "Temperature (C)": "7,504",
-    "Distance (mm)": "732,98"
+    "date": "15-03-18 22:00",
+    "temperature": "7,504",
+    "distance": "732,98"
   },
   {
-    "Date/Time": "15-03-18 19:00",
-    "Temperature (C)": "9,146",
-    "Distance (mm)": "960,3"
+    "date": "15-03-18 19:00",
+    "temperature": "9,146",
+    "distance": "960,3"
   },
   {
-    "Date/Time": "15-03-18 16:00",
-    "Temperature (C)": "12,982",
-    "Distance (mm)": "926,18"
+    "date": "15-03-18 16:00",
+    "temperature": "12,982",
+    "distance": "926,18"
   },
   {
-    "Date/Time": "15-03-18 13:00",
-    "Temperature (C)": "13,818",
-    "Distance (mm)": "923,52"
+    "date": "15-03-18 13:00",
+    "temperature": "13,818",
+    "distance": "923,52"
   },
   {
-    "Date/Time": "15-03-18 10:00",
-    "Temperature (C)": "13,083",
-    "Distance (mm)": "925,84"
+    "date": "15-03-18 10:00",
+    "temperature": "13,083",
+    "distance": "925,84"
   },
   {
-    "Date/Time": "15-03-18 07:00",
-    "Temperature (C)": "3,506",
-    "Distance (mm)": "923,59"
+    "date": "15-03-18 07:00",
+    "temperature": "3,506",
+    "distance": "923,59"
   },
   {
-    "Date/Time": "15-03-18 04:00",
-    "Temperature (C)": "3,868",
-    "Distance (mm)": "922,76"
+    "date": "15-03-18 04:00",
+    "temperature": "3,868",
+    "distance": "922,76"
   },
   {
-    "Date/Time": "15-03-18 01:00",
-    "Temperature (C)": "3,989",
-    "Distance (mm)": "922,17"
+    "date": "15-03-18 01:00",
+    "temperature": "3,989",
+    "distance": "922,17"
   },
   {
-    "Date/Time": "14-03-18 22:00",
-    "Temperature (C)": "5,47",
-    "Distance (mm)": "919,13"
+    "date": "14-03-18 22:00",
+    "temperature": "5,47",
+    "distance": "919,13"
   },
   {
-    "Date/Time": "14-03-18 19:00",
-    "Temperature (C)": "9,357",
-    "Distance (mm)": "909,12"
+    "date": "14-03-18 19:00",
+    "temperature": "9,357",
+    "distance": "909,12"
   },
   {
-    "Date/Time": "14-03-18 16:00",
-    "Temperature (C)": "21,341",
-    "Distance (mm)": "681,79"
+    "date": "14-03-18 16:00",
+    "temperature": "21,341",
+    "distance": "681,79"
   },
   {
-    "Date/Time": "14-03-18 13:00",
-    "Temperature (C)": "18,27",
-    "Distance (mm)": "686,26"
+    "date": "14-03-18 13:00",
+    "temperature": "18,27",
+    "distance": "686,26"
   },
   {
-    "Date/Time": "14-03-18 10:00",
-    "Temperature (C)": "12,932",
-    "Distance (mm)": "697,04"
+    "date": "14-03-18 10:00",
+    "temperature": "12,932",
+    "distance": "697,04"
   },
   {
-    "Date/Time": "14-03-18 07:00",
-    "Temperature (C)": "0,233",
-    "Distance (mm)": "721,42"
+    "date": "14-03-18 07:00",
+    "temperature": "0,233",
+    "distance": "721,42"
   },
   {
-    "Date/Time": "14-03-18 04:00",
-    "Temperature (C)": "2,358",
-    "Distance (mm)": "716,58"
+    "date": "14-03-18 04:00",
+    "temperature": "2,358",
+    "distance": "716,58"
   },
   {
-    "Date/Time": "14-03-18 01:00",
-    "Temperature (C)": "4,815",
-    "Distance (mm)": "712,46"
+    "date": "14-03-18 01:00",
+    "temperature": "4,815",
+    "distance": "712,46"
   },
   {
-    "Date/Time": "13-03-18 22:00",
-    "Temperature (C)": "4,745",
-    "Distance (mm)": "712,56"
+    "date": "13-03-18 22:00",
+    "temperature": "4,745",
+    "distance": "712,56"
   },
   {
-    "Date/Time": "13-03-18 19:00",
-    "Temperature (C)": "5,842",
-    "Distance (mm)": "710,48"
+    "date": "13-03-18 19:00",
+    "temperature": "5,842",
+    "distance": "710,48"
   },
   {
-    "Date/Time": "13-03-18 16:00",
-    "Temperature (C)": "6,91",
-    "Distance (mm)": "682,02"
+    "date": "13-03-18 16:00",
+    "temperature": "6,91",
+    "distance": "682,02"
   },
   {
-    "Date/Time": "13-03-18 13:00",
-    "Temperature (C)": "5,762",
-    "Distance (mm)": "684,18"
+    "date": "13-03-18 13:00",
+    "temperature": "5,762",
+    "distance": "684,18"
   },
   {
-    "Date/Time": "13-03-18 10:00",
-    "Temperature (C)": "5,5",
-    "Distance (mm)": "996,07"
+    "date": "13-03-18 10:00",
+    "temperature": "5,5",
+    "distance": "996,07"
   },
   {
-    "Date/Time": "13-03-18 07:00",
-    "Temperature (C)": "6,557",
-    "Distance (mm)": "1018,31"
+    "date": "13-03-18 07:00",
+    "temperature": "6,557",
+    "distance": "1018,31"
   },
   {
-    "Date/Time": "13-03-18 04:00",
-    "Temperature (C)": "7,574",
-    "Distance (mm)": "1014,99"
+    "date": "13-03-18 04:00",
+    "temperature": "7,574",
+    "distance": "1014,99"
   },
   {
-    "Date/Time": "13-03-18 01:00",
-    "Temperature (C)": "8,833",
-    "Distance (mm)": "884,18"
+    "date": "13-03-18 01:00",
+    "temperature": "8,833",
+    "distance": "884,18"
   },
   {
-    "Date/Time": "12-03-18 22:00",
-    "Temperature (C)": "9,438",
-    "Distance (mm)": "883,68"
+    "date": "12-03-18 22:00",
+    "temperature": "9,438",
+    "distance": "883,68"
   },
   {
-    "Date/Time": "12-03-18 19:00",
-    "Temperature (C)": "11,855",
-    "Distance (mm)": "877,02"
+    "date": "12-03-18 19:00",
+    "temperature": "11,855",
+    "distance": "877,02"
   },
   {
-    "Date/Time": "12-03-18 16:00",
-    "Temperature (C)": "19,821",
-    "Distance (mm)": "884,1"
+    "date": "12-03-18 16:00",
+    "temperature": "19,821",
+    "distance": "884,1"
   },
   {
-    "Date/Time": "12-03-18 13:00",
-    "Temperature (C)": "21,261",
-    "Distance (mm)": "879,8"
+    "date": "12-03-18 13:00",
+    "temperature": "21,261",
+    "distance": "879,8"
   },
   {
-    "Date/Time": "12-03-18 10:00",
-    "Temperature (C)": "14,05",
-    "Distance (mm)": "871,77"
+    "date": "12-03-18 10:00",
+    "temperature": "14,05",
+    "distance": "871,77"
   },
   {
-    "Date/Time": "12-03-18 07:00",
-    "Temperature (C)": "7,736",
-    "Distance (mm)": "914,42"
+    "date": "12-03-18 07:00",
+    "temperature": "7,736",
+    "distance": "914,42"
   },
   {
-    "Date/Time": "12-03-18 04:00",
-    "Temperature (C)": "8,239",
-    "Distance (mm)": "962,33"
+    "date": "12-03-18 04:00",
+    "temperature": "8,239",
+    "distance": "962,33"
   },
   {
-    "Date/Time": "12-03-18 01:00",
-    "Temperature (C)": "8,531",
-    "Distance (mm)": "960,96"
+    "date": "12-03-18 01:00",
+    "temperature": "8,531",
+    "distance": "960,96"
   },
   {
-    "Date/Time": "11-03-18 22:00",
-    "Temperature (C)": "9,226",
-    "Distance (mm)": "959,68"
+    "date": "11-03-18 22:00",
+    "temperature": "9,226",
+    "distance": "959,68"
   },
   {
-    "Date/Time": "11-03-18 19:00",
-    "Temperature (C)": "12,328",
-    "Distance (mm)": "773,68"
+    "date": "11-03-18 19:00",
+    "temperature": "12,328",
+    "distance": "773,68"
   },
   {
-    "Date/Time": "11-03-18 16:00",
-    "Temperature (C)": "20,928",
-    "Distance (mm)": "880,81"
+    "date": "11-03-18 16:00",
+    "temperature": "20,928",
+    "distance": "880,81"
   },
   {
-    "Date/Time": "11-03-18 13:00",
-    "Temperature (C)": "14,181",
-    "Distance (mm)": "1325,94"
+    "date": "11-03-18 13:00",
+    "temperature": "14,181",
+    "distance": "1325,94"
   },
   {
-    "Date/Time": "11-03-18 10:00",
-    "Temperature (C)": "10,827",
-    "Distance (mm)": "1567,13"
+    "date": "11-03-18 10:00",
+    "temperature": "10,827",
+    "distance": "1567,13"
   },
   {
-    "Date/Time": "11-03-18 07:00",
-    "Temperature (C)": "8,702",
-    "Distance (mm)": "1294,89"
+    "date": "11-03-18 07:00",
+    "temperature": "8,702",
+    "distance": "1294,89"
   },
   {
-    "Date/Time": "11-03-18 04:00",
-    "Temperature (C)": "8,37",
-    "Distance (mm)": "1296,58"
+    "date": "11-03-18 04:00",
+    "temperature": "8,37",
+    "distance": "1296,58"
   },
   {
-    "Date/Time": "11-03-18 01:00",
-    "Temperature (C)": "9,589",
-    "Distance (mm)": "1292,36"
+    "date": "11-03-18 01:00",
+    "temperature": "9,589",
+    "distance": "1292,36"
   },
   {
-    "Date/Time": "10-03-18 22:00",
-    "Temperature (C)": "11,583",
-    "Distance (mm)": "1335,41"
+    "date": "10-03-18 22:00",
+    "temperature": "11,583",
+    "distance": "1335,41"
   },
   {
-    "Date/Time": "10-03-18 19:00",
-    "Temperature (C)": "12,811",
-    "Distance (mm)": "1330,33"
+    "date": "10-03-18 19:00",
+    "temperature": "12,811",
+    "distance": "1330,33"
   },
   {
-    "Date/Time": "10-03-18 16:00",
-    "Temperature (C)": "18,753",
-    "Distance (mm)": "1533,99"
+    "date": "10-03-18 16:00",
+    "temperature": "18,753",
+    "distance": "1533,99"
   },
   {
-    "Date/Time": "10-03-18 13:00",
-    "Temperature (C)": "20,858",
-    "Distance (mm)": "1251,82"
+    "date": "10-03-18 13:00",
+    "temperature": "20,858",
+    "distance": "1251,82"
   },
   {
-    "Date/Time": "10-03-18 10:00",
-    "Temperature (C)": "13,929",
-    "Distance (mm)": "1428,59"
+    "date": "10-03-18 10:00",
+    "temperature": "13,929",
+    "distance": "1428,59"
   },
   {
-    "Date/Time": "10-03-18 07:00",
-    "Temperature (C)": "8,289",
-    "Distance (mm)": "1373,75"
+    "date": "10-03-18 07:00",
+    "temperature": "8,289",
+    "distance": "1373,75"
   },
   {
-    "Date/Time": "10-03-18 04:00",
-    "Temperature (C)": "7,393",
-    "Distance (mm)": "1274,44"
+    "date": "10-03-18 04:00",
+    "temperature": "7,393",
+    "distance": "1274,44"
   },
   {
-    "Date/Time": "10-03-18 01:00",
-    "Temperature (C)": "6,809",
-    "Distance (mm)": "1378,67"
+    "date": "10-03-18 01:00",
+    "temperature": "6,809",
+    "distance": "1378,67"
   },
   {
-    "Date/Time": "09-03-18 22:00",
-    "Temperature (C)": "6,678",
-    "Distance (mm)": "1378,68"
+    "date": "09-03-18 22:00",
+    "temperature": "6,678",
+    "distance": "1378,68"
   },
   {
-    "Date/Time": "09-03-18 19:00",
-    "Temperature (C)": "9,417",
-    "Distance (mm)": "1242,88"
+    "date": "09-03-18 19:00",
+    "temperature": "9,417",
+    "distance": "1242,88"
   },
   {
-    "Date/Time": "09-03-18 16:00",
-    "Temperature (C)": "16,286",
-    "Distance (mm)": "1244,58"
+    "date": "09-03-18 16:00",
+    "temperature": "16,286",
+    "distance": "1244,58"
   },
   {
-    "Date/Time": "09-03-18 13:00",
-    "Temperature (C)": "16,84",
-    "Distance (mm)": "1216,87"
+    "date": "09-03-18 13:00",
+    "temperature": "16,84",
+    "distance": "1216,87"
   },
   {
-    "Date/Time": "09-03-18 10:00",
-    "Temperature (C)": "13,536",
-    "Distance (mm)": "1403,96"
+    "date": "09-03-18 10:00",
+    "temperature": "13,536",
+    "distance": "1403,96"
   },
   {
-    "Date/Time": "09-03-18 07:00",
-    "Temperature (C)": "1,482",
-    "Distance (mm)": "1373,11"
+    "date": "09-03-18 07:00",
+    "temperature": "1,482",
+    "distance": "1373,11"
   },
   {
-    "Date/Time": "09-03-18 04:00",
-    "Temperature (C)": "2,61",
-    "Distance (mm)": "1369,77"
+    "date": "09-03-18 04:00",
+    "temperature": "2,61",
+    "distance": "1369,77"
   },
   {
-    "Date/Time": "09-03-18 01:00",
-    "Temperature (C)": "2,328",
-    "Distance (mm)": "1371,51"
+    "date": "09-03-18 01:00",
+    "temperature": "2,328",
+    "distance": "1371,51"
   },
   {
-    "Date/Time": "08-03-18 22:00",
-    "Temperature (C)": "3,556",
-    "Distance (mm)": "1366,52"
+    "date": "08-03-18 22:00",
+    "temperature": "3,556",
+    "distance": "1366,52"
   },
   {
-    "Date/Time": "08-03-18 19:00",
-    "Temperature (C)": "5,389",
-    "Distance (mm)": "1359,02"
+    "date": "08-03-18 19:00",
+    "temperature": "5,389",
+    "distance": "1359,02"
   },
   {
-    "Date/Time": "08-03-18 16:00",
-    "Temperature (C)": "10,676",
-    "Distance (mm)": "1364,86"
+    "date": "08-03-18 16:00",
+    "temperature": "10,676",
+    "distance": "1364,86"
   },
   {
-    "Date/Time": "08-03-18 13:00",
-    "Temperature (C)": "5,701",
-    "Distance (mm)": "1611,29"
+    "date": "08-03-18 13:00",
+    "temperature": "5,701",
+    "distance": "1611,29"
   },
   {
-    "Date/Time": "08-03-18 10:00",
-    "Temperature (C)": "7,433",
-    "Distance (mm)": "501,86"
+    "date": "08-03-18 10:00",
+    "temperature": "7,433",
+    "distance": "501,86"
   },
   {
-    "Date/Time": "08-03-18 07:00",
-    "Temperature (C)": "0,898",
-    "Distance (mm)": "537,12"
+    "date": "08-03-18 07:00",
+    "temperature": "0,898",
+    "distance": "537,12"
   },
   {
-    "Date/Time": "08-03-18 04:00",
-    "Temperature (C)": "1,955",
-    "Distance (mm)": "535,49"
+    "date": "08-03-18 04:00",
+    "temperature": "1,955",
+    "distance": "535,49"
   },
   {
-    "Date/Time": "08-03-18 01:00",
-    "Temperature (C)": "4,724",
-    "Distance (mm)": "505,61"
+    "date": "08-03-18 01:00",
+    "temperature": "4,724",
+    "distance": "505,61"
   },
   {
-    "Date/Time": "07-03-18 22:00",
-    "Temperature (C)": "6,124",
-    "Distance (mm)": "504,06"
+    "date": "07-03-18 22:00",
+    "temperature": "6,124",
+    "distance": "504,06"
   },
   {
-    "Date/Time": "07-03-18 19:00",
-    "Temperature (C)": "8,571",
-    "Distance (mm)": "499,97"
+    "date": "07-03-18 19:00",
+    "temperature": "8,571",
+    "distance": "499,97"
   },
   {
-    "Date/Time": "07-03-18 16:00",
-    "Temperature (C)": "15,651",
-    "Distance (mm)": "514,68"
+    "date": "07-03-18 16:00",
+    "temperature": "15,651",
+    "distance": "514,68"
   },
   {
-    "Date/Time": "07-03-18 13:00",
-    "Temperature (C)": "16,689",
-    "Distance (mm)": "488,53"
+    "date": "07-03-18 13:00",
+    "temperature": "16,689",
+    "distance": "488,53"
   },
   {
-    "Date/Time": "07-03-18 10:00",
-    "Temperature (C)": "15,843",
-    "Distance (mm)": "767,32"
+    "date": "07-03-18 10:00",
+    "temperature": "15,843",
+    "distance": "767,32"
   },
   {
-    "Date/Time": "07-03-18 07:00",
-    "Temperature (C)": "3,375",
-    "Distance (mm)": "741,32"
+    "date": "07-03-18 07:00",
+    "temperature": "3,375",
+    "distance": "741,32"
   },
   {
-    "Date/Time": "07-03-18 04:00",
-    "Temperature (C)": "4,261",
-    "Distance (mm)": "739,96"
+    "date": "07-03-18 04:00",
+    "temperature": "4,261",
+    "distance": "739,96"
   },
   {
-    "Date/Time": "07-03-18 01:00",
-    "Temperature (C)": "3,325",
-    "Distance (mm)": "741,87"
+    "date": "07-03-18 01:00",
+    "temperature": "3,325",
+    "distance": "741,87"
   },
   {
-    "Date/Time": "06-03-18 22:00",
-    "Temperature (C)": "5,701",
-    "Distance (mm)": "737,45"
+    "date": "06-03-18 22:00",
+    "temperature": "5,701",
+    "distance": "737,45"
   },
   {
-    "Date/Time": "06-03-18 19:00",
-    "Temperature (C)": "7,726",
-    "Distance (mm)": "733,61"
+    "date": "06-03-18 19:00",
+    "temperature": "7,726",
+    "distance": "733,61"
   },
   {
-    "Date/Time": "06-03-18 16:00",
-    "Temperature (C)": "16,094",
-    "Distance (mm)": "713,48"
+    "date": "06-03-18 16:00",
+    "temperature": "16,094",
+    "distance": "713,48"
   },
   {
-    "Date/Time": "06-03-18 13:00",
-    "Temperature (C)": "15,661",
-    "Distance (mm)": "766,52"
+    "date": "06-03-18 13:00",
+    "temperature": "15,661",
+    "distance": "766,52"
   },
   {
-    "Date/Time": "06-03-18 10:00",
-    "Temperature (C)": "12,318",
-    "Distance (mm)": "725,27"
+    "date": "06-03-18 10:00",
+    "temperature": "12,318",
+    "distance": "725,27"
   },
   {
-    "Date/Time": "06-03-18 07:00",
-    "Temperature (C)": "3,476",
-    "Distance (mm)": "767,52"
+    "date": "06-03-18 07:00",
+    "temperature": "3,476",
+    "distance": "767,52"
   },
   {
-    "Date/Time": "06-03-18 04:00",
-    "Temperature (C)": "4,604",
-    "Distance (mm)": "868,46"
+    "date": "06-03-18 04:00",
+    "temperature": "4,604",
+    "distance": "868,46"
   },
   {
-    "Date/Time": "06-03-18 01:00",
-    "Temperature (C)": "4,181",
-    "Distance (mm)": "895,72"
+    "date": "06-03-18 01:00",
+    "temperature": "4,181",
+    "distance": "895,72"
   },
   {
-    "Date/Time": "05-03-18 22:00",
-    "Temperature (C)": "6,024",
-    "Distance (mm)": "839,68"
+    "date": "05-03-18 22:00",
+    "temperature": "6,024",
+    "distance": "839,68"
   },
   {
-    "Date/Time": "05-03-18 19:00",
-    "Temperature (C)": "9,72",
-    "Distance (mm)": "728,93"
+    "date": "05-03-18 19:00",
+    "temperature": "9,72",
+    "distance": "728,93"
   },
   {
-    "Date/Time": "05-03-18 16:00",
-    "Temperature (C)": "22,852",
-    "Distance (mm)": "851,9"
+    "date": "05-03-18 16:00",
+    "temperature": "22,852",
+    "distance": "851,9"
   },
   {
-    "Date/Time": "05-03-18 13:00",
-    "Temperature (C)": "17,756",
-    "Distance (mm)": "686,72"
+    "date": "05-03-18 13:00",
+    "temperature": "17,756",
+    "distance": "686,72"
   },
   {
-    "Date/Time": "05-03-18 10:00",
-    "Temperature (C)": "15,722",
-    "Distance (mm)": "794,23"
+    "date": "05-03-18 10:00",
+    "temperature": "15,722",
+    "distance": "794,23"
   },
   {
-    "Date/Time": "05-03-18 07:00",
-    "Temperature (C)": "2,821",
-    "Distance (mm)": "846,44"
+    "date": "05-03-18 07:00",
+    "temperature": "2,821",
+    "distance": "846,44"
   },
   {
-    "Date/Time": "05-03-18 04:00",
-    "Temperature (C)": "4,03",
-    "Distance (mm)": "817,8"
+    "date": "05-03-18 04:00",
+    "temperature": "4,03",
+    "distance": "817,8"
   },
   {
-    "Date/Time": "05-03-18 01:00",
-    "Temperature (C)": "5,027",
-    "Distance (mm)": "816,22"
+    "date": "05-03-18 01:00",
+    "temperature": "5,027",
+    "distance": "816,22"
   },
   {
-    "Date/Time": "04-03-18 22:00",
-    "Temperature (C)": "6,346",
-    "Distance (mm)": "813,07"
+    "date": "04-03-18 22:00",
+    "temperature": "6,346",
+    "distance": "813,07"
   },
   {
-    "Date/Time": "04-03-18 19:00",
-    "Temperature (C)": "9,508",
-    "Distance (mm)": "831,36"
+    "date": "04-03-18 19:00",
+    "temperature": "9,508",
+    "distance": "831,36"
   },
   {
-    "Date/Time": "04-03-18 16:00",
-    "Temperature (C)": "16,618",
-    "Distance (mm)": "816,08"
+    "date": "04-03-18 16:00",
+    "temperature": "16,618",
+    "distance": "816,08"
   },
   {
-    "Date/Time": "04-03-18 13:00",
-    "Temperature (C)": "15,722",
-    "Distance (mm)": "767,21"
+    "date": "04-03-18 13:00",
+    "temperature": "15,722",
+    "distance": "767,21"
   },
   {
-    "Date/Time": "04-03-18 10:00",
-    "Temperature (C)": "7,061",
-    "Distance (mm)": "785,14"
+    "date": "04-03-18 10:00",
+    "temperature": "7,061",
+    "distance": "785,14"
   },
   {
-    "Date/Time": "04-03-18 07:00",
-    "Temperature (C)": "-0,643",
-    "Distance (mm)": "776,87"
+    "date": "04-03-18 07:00",
+    "temperature": "-0,643",
+    "distance": "776,87"
   },
   {
-    "Date/Time": "04-03-18 04:00",
-    "Temperature (C)": "-1,963",
-    "Distance (mm)": "779,13"
+    "date": "04-03-18 04:00",
+    "temperature": "-1,963",
+    "distance": "779,13"
   },
   {
-    "Date/Time": "04-03-18 01:00",
-    "Temperature (C)": "-2,063",
-    "Distance (mm)": "806,46"
+    "date": "04-03-18 01:00",
+    "temperature": "-2,063",
+    "distance": "806,46"
   },
   {
-    "Date/Time": "03-03-18 22:00",
-    "Temperature (C)": "-2,426",
-    "Distance (mm)": "806,59"
+    "date": "03-03-18 22:00",
+    "temperature": "-2,426",
+    "distance": "806,59"
   },
   {
-    "Date/Time": "03-03-18 19:00",
-    "Temperature (C)": "0,757",
-    "Distance (mm)": "797,35"
+    "date": "03-03-18 19:00",
+    "temperature": "0,757",
+    "distance": "797,35"
   },
   {
-    "Date/Time": "03-03-18 16:00",
-    "Temperature (C)": "6,608",
-    "Distance (mm)": "786,6"
+    "date": "03-03-18 16:00",
+    "temperature": "6,608",
+    "distance": "786,6"
   },
   {
-    "Date/Time": "03-03-18 13:00",
-    "Temperature (C)": "6,064",
-    "Distance (mm)": "1124,17"
+    "date": "03-03-18 13:00",
+    "temperature": "6,064",
+    "distance": "1124,17"
   },
   {
-    "Date/Time": "03-03-18 10:00",
-    "Temperature (C)": "-0,915",
-    "Distance (mm)": "1119,66"
+    "date": "03-03-18 10:00",
+    "temperature": "-0,915",
+    "distance": "1119,66"
   },
   {
-    "Date/Time": "03-03-18 07:00",
-    "Temperature (C)": "-3,574",
-    "Distance (mm)": "1127,51"
+    "date": "03-03-18 07:00",
+    "temperature": "-3,574",
+    "distance": "1127,51"
   },
   {
-    "Date/Time": "03-03-18 04:00",
-    "Temperature (C)": "-2,919",
-    "Distance (mm)": "1125,15"
+    "date": "03-03-18 04:00",
+    "temperature": "-2,919",
+    "distance": "1125,15"
   },
   {
-    "Date/Time": "03-03-18 01:00",
-    "Temperature (C)": "-2,879",
-    "Distance (mm)": "1125,33"
+    "date": "03-03-18 01:00",
+    "temperature": "-2,879",
+    "distance": "1125,33"
   },
   {
-    "Date/Time": "02-03-18 22:00",
-    "Temperature (C)": "-2,214",
-    "Distance (mm)": "1097,09"
+    "date": "02-03-18 22:00",
+    "temperature": "-2,214",
+    "distance": "1097,09"
   },
   {
-    "Date/Time": "02-03-18 19:00",
-    "Temperature (C)": "-1,791",
-    "Distance (mm)": "1095,9"
+    "date": "02-03-18 19:00",
+    "temperature": "-1,791",
+    "distance": "1095,9"
   },
   {
-    "Date/Time": "02-03-18 16:00",
-    "Temperature (C)": "3,808",
-    "Distance (mm)": "1104,73"
+    "date": "02-03-18 16:00",
+    "temperature": "3,808",
+    "distance": "1104,73"
   },
   {
-    "Date/Time": "02-03-18 13:00",
-    "Temperature (C)": "2,892",
-    "Distance (mm)": "1184,79"
+    "date": "02-03-18 13:00",
+    "temperature": "2,892",
+    "distance": "1184,79"
   },
   {
-    "Date/Time": "02-03-18 10:00",
-    "Temperature (C)": "1,2",
-    "Distance (mm)": "1243,93"
+    "date": "02-03-18 10:00",
+    "temperature": "1,2",
+    "distance": "1243,93"
   },
   {
-    "Date/Time": "02-03-18 07:00",
-    "Temperature (C)": "-7,179",
-    "Distance (mm)": "1191,94"
+    "date": "02-03-18 07:00",
+    "temperature": "-7,179",
+    "distance": "1191,94"
   },
   {
-    "Date/Time": "02-03-18 04:00",
-    "Temperature (C)": "-6,736",
-    "Distance (mm)": "1190,31"
+    "date": "02-03-18 04:00",
+    "temperature": "-6,736",
+    "distance": "1190,31"
   },
   {
-    "Date/Time": "02-03-18 01:00",
-    "Temperature (C)": "-5,628",
-    "Distance (mm)": "1027,57"
+    "date": "02-03-18 01:00",
+    "temperature": "-5,628",
+    "distance": "1027,57"
   },
   {
-    "Date/Time": "01-03-18 22:00",
-    "Temperature (C)": "-4,813",
-    "Distance (mm)": "1051,07"
+    "date": "01-03-18 22:00",
+    "temperature": "-4,813",
+    "distance": "1051,07"
   },
   {
-    "Date/Time": "01-03-18 19:00",
-    "Temperature (C)": "-2,728",
-    "Distance (mm)": "1045,55"
+    "date": "01-03-18 19:00",
+    "temperature": "-2,728",
+    "distance": "1045,55"
   },
   {
-    "Date/Time": "01-03-18 16:00",
-    "Temperature (C)": "2,428",
-    "Distance (mm)": "1447,91"
+    "date": "01-03-18 16:00",
+    "temperature": "2,428",
+    "distance": "1447,91"
   },
   {
-    "Date/Time": "01-03-18 13:00",
-    "Temperature (C)": "1,441",
-    "Distance (mm)": "1582,71"
+    "date": "01-03-18 13:00",
+    "temperature": "1,441",
+    "distance": "1582,71"
   },
   {
-    "Date/Time": "01-03-18 10:00",
-    "Temperature (C)": "-0,381",
-    "Distance (mm)": "1512,68"
+    "date": "01-03-18 10:00",
+    "temperature": "-0,381",
+    "distance": "1512,68"
   },
   {
-    "Date/Time": "01-03-18 07:00",
-    "Temperature (C)": "-7,814",
-    "Distance (mm)": "1113,99"
+    "date": "01-03-18 07:00",
+    "temperature": "-7,814",
+    "distance": "1113,99"
   },
   {
-    "Date/Time": "01-03-18 04:00",
-    "Temperature (C)": "-8,66",
-    "Distance (mm)": "1088,76"
+    "date": "01-03-18 04:00",
+    "temperature": "-8,66",
+    "distance": "1088,76"
   },
   {
-    "Date/Time": "01-03-18 01:00",
-    "Temperature (C)": "-8,579",
-    "Distance (mm)": "1089,72"
+    "date": "01-03-18 01:00",
+    "temperature": "-8,579",
+    "distance": "1089,72"
   },
   {
-    "Date/Time": "28-02-18 22:00",
-    "Temperature (C)": "-9,073",
-    "Distance (mm)": "1037,16"
+    "date": "28-02-18 22:00",
+    "temperature": "-9,073",
+    "distance": "1037,16"
   },
   {
-    "Date/Time": "28-02-18 19:00",
-    "Temperature (C)": "-7,109",
-    "Distance (mm)": "1432,87"
+    "date": "28-02-18 19:00",
+    "temperature": "-7,109",
+    "distance": "1432,87"
   },
   {
-    "Date/Time": "28-02-18 16:00",
-    "Temperature (C)": "3,818",
-    "Distance (mm)": "1521,54"
+    "date": "28-02-18 16:00",
+    "temperature": "3,818",
+    "distance": "1521,54"
   },
   {
-    "Date/Time": "28-02-18 13:00",
-    "Temperature (C)": "0,726",
-    "Distance (mm)": "1614,59"
+    "date": "28-02-18 13:00",
+    "temperature": "0,726",
+    "distance": "1614,59"
   },
   {
-    "Date/Time": "28-02-18 10:00",
-    "Temperature (C)": "-2,698",
-    "Distance (mm)": "1469,51"
+    "date": "28-02-18 10:00",
+    "temperature": "-2,698",
+    "distance": "1469,51"
   },
   {
-    "Date/Time": "28-02-18 07:00",
-    "Temperature (C)": "-6,525",
-    "Distance (mm)": "1564,03"
+    "date": "28-02-18 07:00",
+    "temperature": "-6,525",
+    "distance": "1564,03"
   },
   {
-    "Date/Time": "28-02-18 04:00",
-    "Temperature (C)": "-7,924",
-    "Distance (mm)": "1571,01"
+    "date": "28-02-18 04:00",
+    "temperature": "-7,924",
+    "distance": "1571,01"
   },
   {
-    "Date/Time": "28-02-18 01:00",
-    "Temperature (C)": "-6,565",
-    "Distance (mm)": "1565,06"
+    "date": "28-02-18 01:00",
+    "temperature": "-6,565",
+    "distance": "1565,06"
   },
   {
-    "Date/Time": "27-02-18 22:00",
-    "Temperature (C)": "-5,377",
-    "Distance (mm)": "1613,8"
+    "date": "27-02-18 22:00",
+    "temperature": "-5,377",
+    "distance": "1613,8"
   },
   {
-    "Date/Time": "27-02-18 19:00",
-    "Temperature (C)": "-3,181",
-    "Distance (mm)": "1575,61"
+    "date": "27-02-18 19:00",
+    "temperature": "-3,181",
+    "distance": "1575,61"
   },
   {
-    "Date/Time": "27-02-18 16:00",
-    "Temperature (C)": "6,467",
-    "Distance (mm)": "1537,74"
+    "date": "27-02-18 16:00",
+    "temperature": "6,467",
+    "distance": "1537,74"
   },
   {
-    "Date/Time": "27-02-18 13:00",
-    "Temperature (C)": "5,852",
-    "Distance (mm)": "1539,68"
+    "date": "27-02-18 13:00",
+    "temperature": "5,852",
+    "distance": "1539,68"
   },
   {
-    "Date/Time": "27-02-18 10:00",
-    "Temperature (C)": "4,513",
-    "Distance (mm)": "740,16"
+    "date": "27-02-18 10:00",
+    "temperature": "4,513",
+    "distance": "740,16"
   },
   {
-    "Date/Time": "27-02-18 07:00",
-    "Temperature (C)": "-6,635",
-    "Distance (mm)": "735,69"
+    "date": "27-02-18 07:00",
+    "temperature": "-6,635",
+    "distance": "735,69"
   },
   {
-    "Date/Time": "27-02-18 04:00",
-    "Temperature (C)": "-3,967",
-    "Distance (mm)": "730,3"
+    "date": "27-02-18 04:00",
+    "temperature": "-3,967",
+    "distance": "730,3"
   },
   {
-    "Date/Time": "27-02-18 01:00",
-    "Temperature (C)": "-4,45",
-    "Distance (mm)": "731,23"
+    "date": "27-02-18 01:00",
+    "temperature": "-4,45",
+    "distance": "731,23"
   },
   {
-    "Date/Time": "26-02-18 22:00",
-    "Temperature (C)": "-5,014",
-    "Distance (mm)": "732,61"
+    "date": "26-02-18 22:00",
+    "temperature": "-5,014",
+    "distance": "732,61"
   },
   {
-    "Date/Time": "26-02-18 19:00",
-    "Temperature (C)": "-2,456",
-    "Distance (mm)": "753,23"
+    "date": "26-02-18 19:00",
+    "temperature": "-2,456",
+    "distance": "753,23"
   },
   {
-    "Date/Time": "26-02-18 16:00",
-    "Temperature (C)": "4,795",
-    "Distance (mm)": "738,33"
+    "date": "26-02-18 16:00",
+    "temperature": "4,795",
+    "distance": "738,33"
   },
   {
-    "Date/Time": "26-02-18 13:00",
-    "Temperature (C)": "4,825",
-    "Distance (mm)": "842,15"
+    "date": "26-02-18 13:00",
+    "temperature": "4,825",
+    "distance": "842,15"
   },
   {
-    "Date/Time": "26-02-18 10:00",
-    "Temperature (C)": "2,841",
-    "Distance (mm)": "1031,34"
+    "date": "26-02-18 10:00",
+    "temperature": "2,841",
+    "distance": "1031,34"
   },
   {
-    "Date/Time": "26-02-18 07:00",
-    "Temperature (C)": "-6,887",
-    "Distance (mm)": "1030,94"
+    "date": "26-02-18 07:00",
+    "temperature": "-6,887",
+    "distance": "1030,94"
   },
   {
-    "Date/Time": "26-02-18 04:00",
-    "Temperature (C)": "-5,467",
-    "Distance (mm)": "1027,07"
+    "date": "26-02-18 04:00",
+    "temperature": "-5,467",
+    "distance": "1027,07"
   },
   {
-    "Date/Time": "26-02-18 01:00",
-    "Temperature (C)": "-5,407",
-    "Distance (mm)": "1027,09"
+    "date": "26-02-18 01:00",
+    "temperature": "-5,407",
+    "distance": "1027,09"
   },
   {
-    "Date/Time": "25-02-18 22:00",
-    "Temperature (C)": "-3,624",
-    "Distance (mm)": "1021,4"
+    "date": "25-02-18 22:00",
+    "temperature": "-3,624",
+    "distance": "1021,4"
   },
   {
-    "Date/Time": "25-02-18 19:00",
-    "Temperature (C)": "-1,459",
-    "Distance (mm)": "1040,95"
+    "date": "25-02-18 19:00",
+    "temperature": "-1,459",
+    "distance": "1040,95"
   },
   {
-    "Date/Time": "25-02-18 16:00",
-    "Temperature (C)": "10,757",
-    "Distance (mm)": "1007,56"
+    "date": "25-02-18 16:00",
+    "temperature": "10,757",
+    "distance": "1007,56"
   },
   {
-    "Date/Time": "25-02-18 13:00",
-    "Temperature (C)": "5,188",
-    "Distance (mm)": "1023,26"
+    "date": "25-02-18 13:00",
+    "temperature": "5,188",
+    "distance": "1023,26"
   },
   {
-    "Date/Time": "25-02-18 10:00",
-    "Temperature (C)": "6,316",
-    "Distance (mm)": "1123,38"
+    "date": "25-02-18 10:00",
+    "temperature": "6,316",
+    "distance": "1123,38"
   },
   {
-    "Date/Time": "25-02-18 07:00",
-    "Temperature (C)": "-5,356",
-    "Distance (mm)": "1132,4"
+    "date": "25-02-18 07:00",
+    "temperature": "-5,356",
+    "distance": "1132,4"
   },
   {
-    "Date/Time": "25-02-18 04:00",
-    "Temperature (C)": "-4,208",
-    "Distance (mm)": "1128,98"
+    "date": "25-02-18 04:00",
+    "temperature": "-4,208",
+    "distance": "1128,98"
   },
   {
-    "Date/Time": "25-02-18 01:00",
-    "Temperature (C)": "-2,97",
-    "Distance (mm)": "1073,87"
+    "date": "25-02-18 01:00",
+    "temperature": "-2,97",
+    "distance": "1073,87"
   },
   {
-    "Date/Time": "24-02-18 22:00",
-    "Temperature (C)": "-1,701",
-    "Distance (mm)": "1069,22"
+    "date": "24-02-18 22:00",
+    "temperature": "-1,701",
+    "distance": "1069,22"
   },
   {
-    "Date/Time": "24-02-18 19:00",
-    "Temperature (C)": "0,636",
-    "Distance (mm)": "1009,25"
+    "date": "24-02-18 19:00",
+    "temperature": "0,636",
+    "distance": "1009,25"
   },
   {
-    "Date/Time": "24-02-18 16:00",
-    "Temperature (C)": "10,646",
-    "Distance (mm)": "1008,27"
+    "date": "24-02-18 16:00",
+    "temperature": "10,646",
+    "distance": "1008,27"
   },
   {
-    "Date/Time": "24-02-18 13:00",
-    "Temperature (C)": "5,973",
-    "Distance (mm)": "1098,33"
+    "date": "24-02-18 13:00",
+    "temperature": "5,973",
+    "distance": "1098,33"
   },
   {
-    "Date/Time": "24-02-18 10:00",
-    "Temperature (C)": "3,153",
-    "Distance (mm)": "1054,97"
+    "date": "24-02-18 10:00",
+    "temperature": "3,153",
+    "distance": "1054,97"
   },
   {
-    "Date/Time": "24-02-18 07:00",
-    "Temperature (C)": "-4,712",
-    "Distance (mm)": "1130,84"
+    "date": "24-02-18 07:00",
+    "temperature": "-4,712",
+    "distance": "1130,84"
   },
   {
-    "Date/Time": "24-02-18 04:00",
-    "Temperature (C)": "-4,198",
-    "Distance (mm)": "1129,29"
+    "date": "24-02-18 04:00",
+    "temperature": "-4,198",
+    "distance": "1129,29"
   },
   {
-    "Date/Time": "24-02-18 01:00",
-    "Temperature (C)": "-3,524",
-    "Distance (mm)": "1127,13"
+    "date": "24-02-18 01:00",
+    "temperature": "-3,524",
+    "distance": "1127,13"
   }
 ]

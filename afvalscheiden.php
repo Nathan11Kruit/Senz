@@ -6,11 +6,11 @@
 
 <div class="container">
 <div class="row spacing-top">
-  <div class="col-6 right"> <a href="textielscheiden.php"> <h6 class="title-block">Textiel</h6></div>
+  <div class="col-6 right"> <a href="textielscheiden.php"> <h6 class="title-block">Textiel</h6></a></div>
   <div class="col-6 left">  <h6 class="title-block">GFT</h6></div>
 </div>
 <div class="row">
-  <div class="col-6 right"><a href="textielscheiden.php"> <div class="small-block"><div class="top"><img class="center-image icon" src="images/textiel.png"></div></div> </div>
+  <div class="col-6 right"><a href="textielscheiden.php"> <div class="small-block"><div class="top"><img class="center-image icon" src="images/textiel.png"></a></div></div> </div>
   <div class="col-6 left">  <div class="small-block"><div class="top"><img class="center-image icon" src="images/gft.png"></div></div></div>
 </div>
 <div class="row spacing-top">

@@ -10,7 +10,7 @@
 </div>
 <div class="col-12 ">
 
-<div class="row date">
+<div class="row date padding">
 
 <div class="col-1"><p class="text-center">1</p></div>
 <div class="col-1"><p class="text-center">2</p></div>
@@ -47,20 +47,20 @@
 
 
 <div class="row spacing-top">
-  <div class="col-6 right">  <h6 class="title-block">Hoe te scheiden?</h6></div>
-  <div class="col-6 left">  <h6 class="title-block">Meld een probleem</h6></div>
+  <div class="col-6 right">  <a href="afvalscheiden.php"> <h6 class="title-block">Hoe te scheiden?</h6></a></div>
+  <div class="col-6 left"> <a href="probleem.php"> <h6 class="title-block">Meld een probleem</h6></a></div>
 </div>
 <div class="row">
-  <div class="col-6 right"> <div class="small-block"><div class="top"><img class="center-image icon" src="images/info_icon.png"></div></div> </div>
-  <div class="col-6 left">  <div class="small-block"><div class="top"><img class="center-image icon" src="images/info_icon.png"></div></div></div>
+  <div class="col-6 right"> <a href="afvalscheiden.php"><div class="small-block"><div class="top"><img class="center-image icon" src="images/info_icon.png"></div></div></a> </div>
+  <div class="col-6 left"> <a href="probleem.php"> <div class="small-block"><div class="top"><img class="center-image icon" src="images/bell.png"></div></div></a></div>
 </div>
 <div class="row spacing-top">
   <div class="col-6 right">  <h6 class="title-block">Mijn donaties</h6></div>
-  <div class="col-6 left">  <h6 class="title-block">Locatie container</h6></div>
+  <div class="col-6 left"> <a href="locatie.php"> <h6 class="title-block">Locatie container</h6></a></div>
 </div>
 <div class="row">
-  <div class="col-6 right"> <div class="small-block"><div class="top"><img class="center-image icon" src="images/info_icon.png"></div></div> </div>
-  <div class="col-6 left">  <div class="small-block"><div class="top"><img class="center-image icon" src="images/kaartje.png"></div></div></div>
+  <div class="col-6 right">  <div class="small-block"><div class="top"><img class="center-image icon" src="images/info_icon.png"></div></div> </div>
+  <div class="col-6 left"> <a href="containerinfo.php"> <div class="small-block"><div class=""><img class="center-image icon-large" src="images/map.png"></div></div></a></div>
 </div>
 </div>
 </div>

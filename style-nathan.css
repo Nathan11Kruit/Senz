@@ -2,6 +2,10 @@
 body{
   background-color: #E0E0E0!important;
 }
+/* links */
+a:link, a:visited, a:hover, a:active {
+  color: unset;
+}
 /* margins */
 .no-margin {
   margin: 0;

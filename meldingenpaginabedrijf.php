@@ -2,7 +2,7 @@
 
 <body>
 
-  <a href="index.php"><img class="center-image back" src="images/whitearrow.png"></a><div class="main-title-block"><h1 class="title text-center">Meldingen</h1></div>
+  <a href="dashboard-bedrijven.php"><img class="center-image back" src="images/whitearrow.png"></a><div class="main-title-block"><h1 class="title text-center">Meldingen</h1></div>
 
 <div class="container">
 
@@ -104,7 +104,7 @@
 
 
 
-<?php include 'menu.php'; ?>
+<?php include 'menu-bedrijven.php'; ?>
 
 <?php include 'footer.php'; ?>
 

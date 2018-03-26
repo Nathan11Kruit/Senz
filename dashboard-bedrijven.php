@@ -7,26 +7,27 @@
 <div class="container">
 
   <div class="row spacing-top">
-    <div class="col-12 "><h6 class="title-block calender-title"> Overzicht containers</h6></div>
+    <div class="col-12 "><a href="containeroverzichtbedrijf.php"> <h6 class="title-block calender-title"> Overzicht containers</h6></div>
     <div class="col-12 ">
       <div class="text-block">
       <p class="no-margin">
       <strong>Container 221</br>
         Luchtvochtigheid boven de 70%</strong></p>
         <p class="timestamp"> 14 maart, 7:30</p>
-      </p>
+      </p></a>
     </div>
   </div>
 </div>
 
 <div class="row spacing-top">
-  <div class="col-12 "><h6 class="title-block calender-title"> Meldingen van gebruikers</h6></div>
+  <div class="col-12 "><a href="meldingenpaginabedrijf.php"><h6 class="title-block calender-title"> Meldingen van gebruikers</h6></div>
   <div class="col-12 ">
     <div class="text-block">
     <p class="no-margin">
       <strong>Container melding</strong></br>
       <p class="timestamp no-margin">Peltlaan, Utrecht, 14 maart, 7:30 dit is te lang</p>
       <p class="melding"> Ik ben een gebruiker en ik heb iets waar ik pissed over ben g.</p>
+    </a>
   </div>
 </div>
 </div>

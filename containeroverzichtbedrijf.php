@@ -29,7 +29,15 @@
 		    		<div class="row">
 			    		<div class="col-8">
 			    			<p class="containernaam">Container</p>
-			    			<p class="containerlocatie">Egginklaan, Utrecht</p>
+			    			<p class="containerlocatie">Straatnaam, Groningen</p>
+								<?php	
+
+									$url = 'json/container1.json'; // path to your JSON file
+									$data = file_get_contents($url); // put the contents of the file into a variable
+									$containers = json_decode($data); // decode the JSON feed
+
+									echo '<p class="containerlocatie">Laatste meting: ' . $containers[0]->date; 
+								?>
 			    		</div>
 			    	</div>
 		    	</div>
@@ -40,7 +48,15 @@
 		    		<div class="row">
 			    		<div class="col-8">
 			    			<p class="containernaam">Container</p>
-			    			<p class="containerlocatie">Egginklaan, Utrecht</p>
+			    			<p class="containerlocatie">Straatnaam, Groningen</p>
+								<?php	
+
+									$url = 'json/container2.json'; // path to your JSON file
+									$data = file_get_contents($url); // put the contents of the file into a variable
+									$containers = json_decode($data); // decode the JSON feed
+
+									echo '<p class="containerlocatie">Laatste meting: ' . $containers[0]->date; 
+								?>
 			    		</div>
 			    	</div>
 		    	</div>
@@ -51,7 +67,15 @@
 		    		<div class="row">
 			    		<div class="col-8">
 			    			<p class="containernaam">Container</p>
-			    			<p class="containerlocatie">Egginklaan, Utrecht</p>
+			    			<p class="containerlocatie">Straatnaam, Groningen</p>
+								<?php	
+
+									$url = 'json/container3.json'; // path to your JSON file
+									$data = file_get_contents($url); // put the contents of the file into a variable
+									$containers = json_decode($data); // decode the JSON feed
+
+									echo '<p class="containerlocatie">Laatste meting: ' . $containers[0]->date; 
+								?>
 			    		</div>
 			    	</div>
 		    	</div>
@@ -62,7 +86,15 @@
 		    		<div class="row">
 			    		<div class="col-8">
 			    			<p class="containernaam">Container</p>
-			    			<p class="containerlocatie">Egginklaan, Utrecht</p>
+			    			<p class="containerlocatie">Straatnaam, Groningen</p>
+								<?php	
+
+									$url = 'json/container4.json'; // path to your JSON file
+									$data = file_get_contents($url); // put the contents of the file into a variable
+									$containers = json_decode($data); // decode the JSON feed
+
+									echo '<p class="containerlocatie">Laatste meting: ' . $containers[0]->date; 
+								?>
 			    		</div>
 			    	</div>
 		    	</div>
@@ -73,24 +105,19 @@
 		    		<div class="row">
 			    		<div class="col-8">
 			    			<p class="containernaam">Container</p>
-			    			<p class="containerlocatie">Egginklaan, Utrecht</p>
+			    			<p class="containerlocatie">Straatnaam, Groningen</p>
+								<?php	
+
+									$url = 'json/container5.json'; // path to your JSON file
+									$data = file_get_contents($url); // put the contents of the file into a variable
+									$containers = json_decode($data); // decode the JSON feed
+
+									echo '<p class="containerlocatie">Laatste meting: ' . $containers[0]->date; 
+								?>
 			    		</div>
 			    	</div>
 		    	</div>
 			</div>
-
-			<div class="row">
-		    	<div class="col-12 balkinstellingen">
-		    		<div class="row">
-			    		<div class="col-8">
-			    			<p class="containernaam">Container</p>
-			    			<p class="containerlocatie">Egginklaan, Utrecht</p>
-			    		</div>
-			    	</div>
-		    	</div>
-			</div>
-
-
 	</div>
   </div>
  </div>

@@ -1,5 +1,14 @@
 <?php include 'header.php'; ?>
 
+<?php
+
+$url = 'json/container2.json'; // path to your JSON file
+$data = file_get_contents($url); // put the contents of the file into a variable
+$containers = json_decode($data); // decode the JSON feed
+
+
+?>
+
 <body>
 
       <div class="main-title-block"><h1 class="title text-center">Dashboard</h1></div>
@@ -11,7 +20,9 @@
 	</div>
 	<div class="col-12 ">
 	<div class="row date">
-		<img class="center-image" src="images/container.svg">
+					<?php	echo "<h6>De huidige vulgraad is: </h6>" . $containers[0]->distance . "<br>";
+							echo "<h6>Laatste meting: </h6>" . $containers[0]->date; 
+			?>
 	</div>
   </div>
  </div>
